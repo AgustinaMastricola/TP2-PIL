@@ -22,3 +22,6 @@ Se deberán crear excepciones (subclases de Exception definidas por el usuario) 
 - Añadir un item con un valor/valores que se repita/repitan por lo menos 3 veces (Para lograr esto, es necesaria la implementación del equals en las clases que generalicen V y T).
 - Tratar de obtener el valor V o T de una key, sin que este exista. (Esto se da en caso de que se haya insertado por ejemplo, una key y un valor V, y se esté pidiendo un valor T).
 - Se deben capturarlas e informar la situación debidamente al usuario.
+
+## Integrantes del equipo:
+Agustina Mastricola, Lucas Agustin Heredia, Gabriel Moncerrat.
