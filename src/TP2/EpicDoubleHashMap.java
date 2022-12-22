@@ -190,4 +190,8 @@ public class EpicDoubleHashMap<K extends Number, V, T>{
         }
         return result;
     }
+
+    public int sumar(int num1, int num2){
+        return num1 + num2;
+    }
 }
